@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 9: Intro to Solar Photovoltaics (PDF - 2.2MB)](resources/mit3_021js11_l9)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Some Review and Introduction to Solar Photovoltaics'
 uid: 7c01ae59-2c92-be09-00b9-163023f73387

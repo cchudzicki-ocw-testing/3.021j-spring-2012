@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 5: Solar Thermal Fuels II (PDF - 4.0MB)](resources/mit3_021js12_l5)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Application of Quantum Modeling of Molecules: Solar Thermal Fuels
   (cont.)'

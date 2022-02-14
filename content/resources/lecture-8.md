@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 8: Advanced Properties of Materials (PDF - 1.3MB)](resources/mit3_021js11_l8)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Advanced Properties of Materials: What else can we do?'
 uid: b3e74eeb-f963-59df-3310-6732e6c0b9ce

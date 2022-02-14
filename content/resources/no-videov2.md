@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: No-Videov2.jpg
+type: OCWFile
 uid: 64f9df05-f50b-be10-63e4-d591fe17de50
 ---

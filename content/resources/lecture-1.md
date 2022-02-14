@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 1: It''s a Quantum World (PDF - 4.2MB)](resources/mit3_021js12_l1)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: It''s a Quantum World: The Theory of Quantum Mechanics'
 uid: feb62898-081a-facb-e421-4f532126f73e

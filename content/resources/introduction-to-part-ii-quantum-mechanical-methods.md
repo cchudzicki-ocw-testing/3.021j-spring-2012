@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 0: Introduction to Part II (PDF - 2.7MB)](resources/mit3_021js12_l0)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0: Introduction to Part II: Quantum Mechanical Methods'
 uid: d5cf5a1e-d6b9-d1aa-f34f-6fcd11df9efa

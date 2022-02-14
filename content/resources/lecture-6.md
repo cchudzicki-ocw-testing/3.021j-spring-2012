@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 6: Hydrogen Storage, Atoms to Molecules (PDF - 3.6MB)](resources/mit3_021js12_l6)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Hydrogen Storage, and Atoms to Molecules'
 uid: 36ba04d9-1018-6d0e-b24a-96ba72601b94

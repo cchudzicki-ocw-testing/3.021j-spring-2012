@@ -4,7 +4,12 @@ description: This file contains information regarding solar spectrum data for pr
   set 5.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/09e5f995b6e90635f8f4c68cc3339761_MIT3_021JS13_thesun.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: MIT3_021JS13_thesun.xlsx
+type: OCWFile
 uid: 09e5f995-b6e9-0635-f8f4-c68cc3339761
 ---

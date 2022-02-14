@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](resources/mit3_021js12_l3)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: From Many-Body to Single-Particle: Quantum Modeling of Molecules'
 uid: c9e0266c-52b8-25e1-07db-5766b5794ddd

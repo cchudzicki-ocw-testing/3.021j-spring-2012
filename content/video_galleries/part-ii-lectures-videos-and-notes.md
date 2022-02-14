@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: 'Part II: Quantum Mechanical Methods'
+type: CourseSection
 uid: 585ba666-0810-835b-9d9f-1ec7fe05b24e
 videos:
   content:

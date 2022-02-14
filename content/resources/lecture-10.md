@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 10: Solar Photovoltaics (PDF - 3.4MB)](resources/mit3_021js11_l10)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Solar Photovoltaics'
 uid: 448d2805-54f1-731b-5c70-d56b2485aad5

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture 4: Solar Thermal Fuels I (PDF - 28MB)](/ans7870/3/3.021/s12/MIT3_021JS12_P2_L4.pdf)'
+parent_title: 'Part II: Quantum Mechanical Methods'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Application of Quantum Modeling of Molecules: Solar Thermal Fuels'
 uid: 4d3f2d9e-6c79-9bec-e50e-ec05d20af04a
