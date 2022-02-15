@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: fuel2-cis.xyz
-type: OCWFile
 uid: a05e02a1-2b6c-2a6a-b4c0-689523052022
 ---

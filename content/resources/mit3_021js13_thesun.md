@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Solar spectrum data for problem set 5
-type: OCWFile
 uid: 34e2d30a-5503-082c-da87-a722951090ac
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT3_021JS13_thesun.xlsx
-type: OCWFile
 uid: 09e5f995-b6e9-0635-f8f4-c68cc3339761
 ---

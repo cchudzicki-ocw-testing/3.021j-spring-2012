@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: 'Lecture 11: No video thumb'
-type: OCWFile
 uid: 5a39aa0b-4e69-d869-8bb0-62bad89d160a
 ---
