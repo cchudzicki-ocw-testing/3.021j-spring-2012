@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 1: It''s a Quantum World (PDF - 4.2MB)](resources/mit3_021js12_l1)'
 parent_title: 'Part II: Quantum Mechanical Methods'

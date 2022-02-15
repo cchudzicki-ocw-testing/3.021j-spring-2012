@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 8: Advanced Properties of Materials (PDF - 1.3MB)](resources/mit3_021js11_l8)'
 parent_title: 'Part II: Quantum Mechanical Methods'

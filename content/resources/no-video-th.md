@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Image
 title: 'Lecture 11: No video thumb'
 uid: 5a39aa0b-4e69-d869-8bb0-62bad89d160a

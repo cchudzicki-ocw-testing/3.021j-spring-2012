@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Image
 title: 'Lecture 11: No video'
 uid: 3b456812-548b-7fd6-7e23-66dd821af219

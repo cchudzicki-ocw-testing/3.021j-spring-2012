@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 4: Solar Thermal Fuels I (PDF - 28MB)](/ans7870/3/3.021/s12/MIT3_021JS12_P2_L4.pdf)'
 parent_title: 'Part II: Quantum Mechanical Methods'

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 0: Introduction to Part II (PDF - 2.7MB)](resources/mit3_021js12_l0)'
 parent_title: 'Part II: Quantum Mechanical Methods'

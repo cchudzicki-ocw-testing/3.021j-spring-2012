@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](resources/mit3_021js12_l3)'
 parent_title: 'Part II: Quantum Mechanical Methods'

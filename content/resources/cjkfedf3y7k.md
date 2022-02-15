@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/ad0af2b352ccb563b6380c570d9f6cc3_CJkfedF3Y7k.srt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ad0af2b3-52cc-b563-b638-0c570d9f6cc3
