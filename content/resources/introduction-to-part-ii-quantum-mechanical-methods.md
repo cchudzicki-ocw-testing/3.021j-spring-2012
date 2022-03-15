@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 0: Introduction to Part II (PDF - 2.7MB)](resources/mit3_021js12_l0)'
+optional_text: '[Lecture 0: Introduction to Part II (PDF - 2.7MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l0)'
 parent_title: 'Part II: Quantum Mechanical Methods'
 parent_type: CourseSection
 related_resources_text: ''
