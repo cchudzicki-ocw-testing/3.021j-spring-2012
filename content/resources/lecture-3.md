@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture briefly reviews the previous lesson, discusses the many-body problem, Hartree and Hartree-Fock, density functional theory, and covers computational approaches, modeling software, and PWscf (plane-wave self-consisten field) input.
 
 **Instructor:** Jeffrey Grossman
+

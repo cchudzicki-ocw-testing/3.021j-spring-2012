@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture reviews previous lessons, and covers quantum chemistry vs. density functional theory, with some interactive calculation and discussion about candidate fuels.
 
 **Instructor:** Jeffrey Grossman
+

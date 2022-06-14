@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lesson reviews problem set five and other examples, goes over previously covered topics for the upcoming quiz, and continues with discussion of energy, renewable energy, fossil fuel, data and motivations for alternative fuels.
 
 **Instructor:** Jeffrey Grossman
+

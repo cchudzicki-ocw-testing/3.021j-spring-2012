@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introduction to Part II which will cover atomistic quantum modeling of materials. Overviews modeling methods, history of quantum mechanics, introduces the Schrödinger equation, density function theory, and applications including energy storage materials.
 
 **Instructor:** Jeffrey Grossman
+

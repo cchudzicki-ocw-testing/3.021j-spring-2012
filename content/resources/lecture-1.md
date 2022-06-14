@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture discusses the theory of quantum mechanics (QM), modeling and simluation, why QM is useful, and how it grew out of classical physics, and concludes with some simple examples.
 
 **Instructor:** Jeffrey Grossman
+

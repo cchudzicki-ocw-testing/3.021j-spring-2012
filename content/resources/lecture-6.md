@@ -27,3 +27,4 @@ video_metadata:
 **Description:** The lecture discusses hydrogen storage, hydrogen as fuel, crystal symmetries, lattices and inverse lattices, Brillouian zone, periodic potentials, Bloch's theorem, and energy bands.
 
 **Instructor:** Jeffrey Grossman
+

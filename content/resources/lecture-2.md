@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture reviews quantization, wave aspect, double-slit experiment, Schrödinger, and discusses the hydrogen atom as a real-world example, spin and spin history, Pauli's principle, the periodic table, and concludes with simulations on NanoHub.org.
 
 **Instructor:** Jeffrey Grossman
+

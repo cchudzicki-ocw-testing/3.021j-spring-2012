@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture begins with a brief review of lattices, band structure, and Fermi function, and continues with discussion of electrical, optical, magnetic, transport, and vibrational properties of solids.
 
 **Instructor:** Jeffrey Grossman
+

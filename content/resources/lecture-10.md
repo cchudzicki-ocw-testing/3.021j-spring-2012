@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Beginning with a review of problem set six, this lecture overviews climate change, covers solar photovoltaics, solar cells, the electron, how computational QM can impact solar PV, and introduces dye-sensitized solar PV.
 
 **Instructor:** Jeffrey Grossman
+

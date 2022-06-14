@@ -27,3 +27,4 @@ video_metadata:
 **Description:** This lecture begins with inspiration for student projects, a review of the previous lesson, and continues with structural properties, band structure (including in-class simulations), calculating density of states (DOS), and metals/insulators.
 
 **Instructor:** Jeffrey Grossman
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture reviews energy levels and continues from the previous session on solar thermal fuels. There are interactive calculations and live simulations, and discussion about candidate fuels.
 
 **Instructor:** Jeffrey Grossman
+
