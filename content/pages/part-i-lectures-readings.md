@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides lectures notes and readings from the first half
+  of the course covering particle and continuum methods, and are the previous year
+  version as taught by Professor Markus Buehler.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Part I: Particle and Continuum Methods'
