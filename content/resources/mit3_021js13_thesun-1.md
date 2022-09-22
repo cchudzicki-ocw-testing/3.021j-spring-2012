@@ -6,6 +6,7 @@ file: /courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/09e5f9
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

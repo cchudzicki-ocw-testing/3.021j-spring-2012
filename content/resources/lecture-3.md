@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 3: Many-Body to Single-Particle (PDF - 3.8MB)](/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_l3)'
